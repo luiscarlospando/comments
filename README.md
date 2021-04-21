@@ -1,5 +1,5 @@
-# Comments for [LuisCarlosPando.net](https://luiscarlospando.net)
-Repo for handling comments at [LuisCarlosPando.net](https://luiscarlospando.net)
+# Comments for [LuisCarlosPando.com](https://luiscarlospando.com)
+Repo for handling comments at [LuisCarlosPando.com](https://luiscarlospando.com)
 
 ---
 
